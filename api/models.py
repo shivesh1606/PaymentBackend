@@ -1,9 +1,4 @@
 from django.db import models
-<<<<<<< HEAD
-
-=======
-# from ant_farm.users.models import User
->>>>>>> main
 
 # import uuid
 import uuid
